@@ -1,0 +1,6 @@
+docker_project/
+├── app/
+│   └── index.html
+├── Dockerfile
+├── push_to_dockerhub.sh
+└── README.md
